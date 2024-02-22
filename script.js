@@ -1,4 +1,4 @@
-var food = new Array()
+let food = new Array()
 
 food[0]= "Pizza";
 food[1]= "Hamburger";
