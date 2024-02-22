@@ -6,7 +6,7 @@ food[2]= "Hot Dog";
 food[3]= "French Fries";
 
 food.push( "Ice Cream" );
-food.splice(1,0,"ckake","apple");
+food.splice(1,0,"cake","apple","coke");
 
 
 console.log(food);
